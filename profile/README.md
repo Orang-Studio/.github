@@ -10,7 +10,7 @@ Welcome to Oranges github! <img src="https://github.com/user-attachments/assets/
 
 We build every day something new and also maintaining our own open source projects like:
 
-- [OrangLib](https://github.com/Orang-Studio/OrangLaunch/tree/oranglib) - A minecraft modpacks library hosted on [modpacks.oranges.lt](https://modpacks.oranges.lt/)
+- [OrangLib](https://github.com/Orang-Studio/OrangLib) - A minecraft modpacks library hosted on [modpacks.oranges.lt](https://modpacks.oranges.lt/)
 - [OrangLauncher](https://github.com/Orang-Studio/OrangLaunch) - Minecraft Legacy launcher with moderner ui and more advanced
 - [OrangBooster](https://github.com/Orang-Studio/OrangBooster) - Windows systems 10/11 Booster to clean microslops shit
 - [OrangCalc](https://github.com/Orang-Studio/OrangCalc) - The calculator that I want to be good and not default one - adasjusk
